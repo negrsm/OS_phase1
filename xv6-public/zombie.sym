@@ -14,10 +14,11 @@
 00000000 ulib.c
 00000000 printf.c
 00000340 printint
-00000760 digits.1085
+00000760 digits.1087
 00000000 umalloc.c
 00000a08 freep
 00000a0c base
+00000333 getHelloWorld
 00000030 strcpy
 000003f0 printf
 00000260 memmove

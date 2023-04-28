@@ -15,10 +15,11 @@
 00000000 ulib.c
 00000000 printf.c
 00000400 printint
-00000870 digits.1085
+00000870 digits.1087
 00000000 umalloc.c
 00000b24 freep
 00000b28 base
+000003f3 getHelloWorld
 000000f0 strcpy
 000004b0 printf
 00000b1c argv
